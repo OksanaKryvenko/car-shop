@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyExam</string>
+    <string-array name="models">
+        <item>Kia</item>
+        <item>Skoda</item>
+        <item>Hyundai</item>
+        <item>BMW</item>
+    </string-array>
+    <string-array name="volumes">
+        <item>1.5</item>
+        <item>1.8</item>
+        <item>2.0</item>
+        <item>2.4</item>
+        <item>3.0</item>
+    </string-array>
+</resources>
